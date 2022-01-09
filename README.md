@@ -34,3 +34,11 @@ id      content label
 53617   분위기 좋고, 음식맛 최고였습니다. 직원분들 모두 친절하시고 좋았어요.    1
 ```
 
+## License
+
+<p xmlns:dct="http://purl.org/dc/terms/">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+</p>
