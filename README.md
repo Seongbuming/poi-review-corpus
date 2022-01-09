@@ -1,12 +1,8 @@
 # POI Review Corpus for Sentiment Analysis v1.0
 
----
-
 This is a POI review corpus dataset in the Korean language. Reviews were scraped from [Kakao Map](https://map.kakao.com). Each review is labeled with polarity - negative or positive.
 
 ## Data description
-
----
 
 - Language: Korean
 - Source: Kakao Map
@@ -18,16 +14,12 @@ This is a POI review corpus dataset in the Korean language. Reviews were scraped
 
 ## Data distribution
 
----
-
 - 100K reviews in total
   - 50K negative reviews (originally reviews of ratings 1~2)
   - 50K positive reviews (originally reviews of ratings 4~5)
   - Neutral reviews (originally reviews of ratings 3) are excluded.
 
 ## Quick peek
-
----
 
 ```
 id      content label
